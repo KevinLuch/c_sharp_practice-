@@ -1,0 +1,12 @@
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/bin/Debug/netcoreapp3.1/first_c_sharp.deps.json
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/bin/Debug/netcoreapp3.1/first_c_sharp.runtimeconfig.json
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/bin/Debug/netcoreapp3.1/first_c_sharp.runtimeconfig.dev.json
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/bin/Debug/netcoreapp3.1/first_c_sharp.dll
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/bin/Debug/netcoreapp3.1/first_c_sharp.pdb
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/obj/Debug/netcoreapp3.1/first_c_sharp.csprojAssemblyReference.cache
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/obj/Debug/netcoreapp3.1/first_c_sharp.AssemblyInfoInputs.cache
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/obj/Debug/netcoreapp3.1/first_c_sharp.AssemblyInfo.cs
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/obj/Debug/netcoreapp3.1/first_c_sharp.csproj.CoreCompileInputs.cache
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/obj/Debug/netcoreapp3.1/first_c_sharp.dll
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/obj/Debug/netcoreapp3.1/first_c_sharp.pdb
+/Users/kevinluch/Desktop/coding_v2/personal/c_sharp/first_c_sharp/obj/Debug/netcoreapp3.1/first_c_sharp.genruntimeconfig.cache
